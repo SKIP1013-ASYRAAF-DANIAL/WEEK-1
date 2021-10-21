@@ -1,0 +1,16 @@
+package myInfo;
+
+class Personal {
+
+public static void main(String[] args) {
+	// TODO Auto-generated method stub
+	System.out.println("Name : Ahmad Asyraaf Danial Bin Norazlan");
+	System.out.println("No Matric : 284368");
+	System.out.println("Age : 19");
+	System.out.println("Course : Bachelor of Computer Science (Hons.)");
+	System.out.println("Previous Education : Asasi Pengurusan UUM");
+	System.out.println("Father's Name : Norazlan Bin Abd Rashid");
+	System.out.println("Mother's Name : Siti Zaleha Binti Sayuti");
+	System.out.println("Address : 603, Jalan Sp Heights 17, Sp Heights, 08000 Sungai Petani, Kedah");
+}
+}
